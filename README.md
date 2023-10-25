@@ -14,7 +14,7 @@ You can run the Lidya Portfolio with the following steps:
    git clone https://github.com/lidyaaa2004/profile.git
    ```
    Navigate to the project folder:
-   cd your-folder
+   cd "your-folder"
 
 # If you're using MacOS
 open index.html
