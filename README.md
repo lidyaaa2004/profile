@@ -2,6 +2,8 @@
 
 Welcome to the Lidya Portfolio project. This is a personal portfolio project created with HTML, CSS, and JavaScript. The portfolio allows you to showcase information about yourself, the projects you've worked on, and various skills you possess.
 
+Theres A Live Code [click here](https://lidyaaa2004.github.io/profile/)
+
 ## Getting Started
 
 You can run the Lidya Portfolio with the following steps:
